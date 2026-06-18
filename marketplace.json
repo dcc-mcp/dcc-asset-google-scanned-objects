@@ -1,0 +1,29 @@
+{
+  "name": "dcc-asset-google-scanned-objects",
+  "version": "0.1.0",
+  "interface": {
+    "displayName": "Google Scanned Objects",
+    "description": "GoogleResearch scanned household object search and downloads from Gazebo Fuel."
+  },
+  "installRoot": "~/.dcc-mcp/marketplace/{dcc}/{name}",
+  "skills": [
+    {
+      "name": "dcc-asset-google-scanned-objects",
+      "description": "Search and download Google Scanned Objects from Gazebo Fuel.",
+      "version": "0.1.0",
+      "dcc": ["maya", "blender", "houdini", "3dsmax"],
+      "tags": ["asset", "google", "scanned-objects", "gazebo", "cc-by", "obj"],
+      "category": "Asset Providers",
+      "maintainer": "dcc-mcp",
+      "minCoreVersion": "0.18.0",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/dcc-mcp/dcc-asset-google-scanned-objects",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "available"
+      }
+    }
+  ]
+}
