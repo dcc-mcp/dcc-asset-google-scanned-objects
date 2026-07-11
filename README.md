@@ -1,5 +1,7 @@
 # DCC-MCP Google Scanned Objects
 
+![Workflow showcase](docs/workflow-showcase.png)
+
 Google Scanned Objects search and download tools for DCC-MCP.
 
 This skill uses Gazebo Fuel's public model API for the GoogleResearch owner.
