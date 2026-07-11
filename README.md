@@ -1,6 +1,6 @@
 # DCC-MCP Google Scanned Objects
 
-![Workflow showcase](docs/workflow-showcase.png)
+![Workflow showcase](docs/images/dcc-asset-google-scanned-objects-showcase.webp)
 
 Google Scanned Objects search and download tools for DCC-MCP.
 
